@@ -1,4 +1,4 @@
-<div dir='rtl' align="center" style="font-size: 40px; font-weight: 300;">
+<div dir='rtl' style="font-size: 40px; font-weight: 300;">
 Belén Yarde Buller
 </div>
 
