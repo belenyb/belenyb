@@ -1,6 +1,6 @@
-<p align="center" style="font-size: 40px; font-weight: 300;">
+<div dir='rtl' align="center" style="font-size: 40px; font-weight: 300;">
 Belén Yarde Buller
-</p>
+</div>
 
 <div align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
