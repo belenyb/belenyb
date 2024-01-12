@@ -1,5 +1,5 @@
 <p align="center">
-  <span style="font-size: 50px">Belén Yarde Buller</span>
+  <span style="font-size: 40px;">Belén Yarde Buller</span>
 </p>
 
 <div align="center">
