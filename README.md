@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&height=40&section=header&text=Belen%20Yarde%20Buller&fontSize=40)
+<p align="center">
+  <h1>Belén Yarde Buller</h1>
+</p>
 
 <div align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
