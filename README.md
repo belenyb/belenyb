@@ -1,6 +1,4 @@
-<p align="center">
-  <h1>Belén Yarde Buller</h1>
-</p>
+<p align="center" style="font-size: 50px;">Belén Yarde Buller</p>
 
 <div align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
