@@ -7,11 +7,9 @@
 </a>
 </div>
 
-<p>
+<div align="center">
 I work as a developer in a leading health-tech company, currently developing mobile and web applications with Flutter and collaborating in the creation of APIs using Node.js 🤓. I define myself as a responsible and proactive person, who seeks to grow professionally by learning from her colleagues. I try to keep up to date with the latest technologies available, which leads me to be constantly studying, an activity that I enjoy 📚. I am passionate about music and sports and their ability to bring people together ⚽🎸. I speak and write advanced English.
-<br />
-Check out my portfolio 👉 [here](https://belenyardebuller.flutterflow.app)
-</p>
+</div>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/belenyardebuller/">
@@ -21,6 +19,9 @@ Check out my portfolio 👉 [here](https://belenyardebuller.flutterflow.app)
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail logo" />
 </a>
 </p>
+
+### Portfolio
+You can find personal and work projects in my website, made in FlutterFlow. Check out my portfolio 👉 ![here](https://belenyardebuller.flutterflow.app)
 
 ### Tech stack
 [![My Skills](https://skillicons.dev/icons?i=dart,flutter,nodejs,express,mongo,firebase,supabase)](https://skillicons.dev)
