@@ -23,7 +23,7 @@ I am currently developing mobile and web full stack applications with Flutter an
 </p>
 
 ### Portfolio
-You can find personal and work projects on my website, made with FlutterFlow. Check out my portfolio 👉 <a href="https://belenyardebuller.flutterflow.app"> here </a>.
+You can learn more about my personal and work projects on my website, made with FlutterFlow. Check out my portfolio 👉 <a href="https://belenyardebuller.flutterflow.app"> here </a>.
 
 ### Tech stack
 [![My Skills](https://skillicons.dev/icons?i=dart,flutter,nodejs,express,mongo,firebase,supabase)](https://skillicons.dev)
