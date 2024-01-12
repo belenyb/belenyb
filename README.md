@@ -1,6 +1,4 @@
-<div dir='rtl' style="font-size: 40px; font-weight: 300;">
-Belén Yarde Buller
-</div>
+![header](https://capsule-render.vercel.app/api?type=transparent&section=header&text=Belen%20Yarde%20Buller&fontSize=40)
 
 <div align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
