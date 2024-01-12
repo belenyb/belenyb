@@ -1,3 +1,5 @@
+<br />
+
 ![header](https://capsule-render.vercel.app/api?type=transparent&section=header&text=Belen%20Yarde%20Buller&fontSize=40&height=40)
 
 <div align="center">
@@ -12,6 +14,8 @@ I am currently developing mobile and web full stack applications with Flutter an
 </p>
 
 ---
+
+<br />
 
 <p align="center">
 <a href="https://www.linkedin.com/in/belenyardebuller/">
