@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&height=50&section=header&text=Belen%20Yarde%20Buller&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=transparent&height=40&section=header&text=Belen%20Yarde%20Buller&fontSize=40)
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
@@ -7,13 +7,17 @@
 </a>
 </p>
 
+<p>
+I work as a developer in a leading health-tech company, currently developing mobile applications with Flutter and collaborating in the creation of APIs using Node.js 🤓. I define myself as a responsible and proactive person, who seeks to grow professionally by learning from her colleagues. I try to keep up to date with the latest technologies available, which leads me to be constantly studying, an activity that I enjoy 📚. I am passionate about music and sports and their ability to bring people together ⚽🎸. I speak and write advanced English.
+</p>
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/belenyardebuller/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin logo" />
-  </a>
-  <a href="mailto:belenyardebuller@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail logo" />
-  </a>
+<a href="https://www.linkedin.com/in/belenyardebuller/">
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin logo" />
+</a>
+<a href="mailto:belenyardebuller@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail logo" />
+</a>
 </p>
 
 ### Tech stack
