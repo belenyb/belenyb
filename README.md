@@ -8,7 +8,7 @@
 </div>
 
 <p align="center" style="font-size: 14px; font-weight: 300;">
-I work as a developer in a leading health-tech company, currently developing mobile and web applications with Flutter and collaborating in the creation of APIs using Node.js 🤓. I define myself as a responsible and proactive person, who seeks to grow professionally by learning from her colleagues. I try to keep up to date with the latest technologies available, which leads me to be constantly studying, an activity that I enjoy 📚. I am passionate about music and sports and their ability to bring people together ⚽🎸. I speak and write advanced English.
+I am currently developing mobile and web full stack applications with Flutter and Node.js 🤓. I define myself as a responsible and proactive person, who seeks to grow professionally by learning from her colleagues. I try to keep up to date with the latest technologies available, which leads me to be constantly studying, an activity that I enjoy 📚. I am passionate about music and sports and their ability to bring people together ⚽🎸. I speak and write advanced English.
 </p>
 
 ---
