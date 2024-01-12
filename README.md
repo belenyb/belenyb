@@ -23,7 +23,7 @@ I work as a developer in a leading health-tech company, currently developing mob
 </p>
 
 ### Portfolio
-You can find personal and work projects in my website, made in FlutterFlow. Check out my portfolio 👉 ![here](https://belenyardebuller.flutterflow.app)
+You can find personal and work projects on my website, made with FlutterFlow. Check out my portfolio 👉 <a href="https://belenyardebuller.flutterflow.app"> here </a>.
 
 ### Tech stack
 [![My Skills](https://skillicons.dev/icons?i=dart,flutter,nodejs,express,mongo,firebase,supabase)](https://skillicons.dev)
