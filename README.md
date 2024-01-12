@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&section=header&text=Belen%20Yarde%20Buller&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=transparent&section=header&text=Belen%20Yarde%20Buller&fontSize=40&height=40)
 
 <div align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
