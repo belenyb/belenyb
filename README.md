@@ -76,6 +76,3 @@ _React · TypeScript · Node.js · Express · Angular_
 
 _Git · Figma · Jira · Confluence_
 
-### Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=belenyb&layout=compact)
